@@ -20,7 +20,7 @@
 	},
 	"require-dev": {
 		"automattic/phpcs-neutron-standard": "^1.5",
-		"dealerdirect/phpcodesniffer-composer-installer": "^0.5",
+		"dealerdirect/phpcodesniffer-composer-installer": "^0.7",
 		"johnbillion/php-docs-standards": "^1",
 		"johnkary/phpunit-speedtrap": "^2",
 		"phpcompatibility/phpcompatibility-wp": "^2",
